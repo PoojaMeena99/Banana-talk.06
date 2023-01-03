@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+:root{
+    --goldenrod:var(--goldenrod)#C4B454
+}
+body{
+    font-family: 
+    Bold / italic (sans);
+}
+#txt-input{ 
+    border: 1px solid black;
+    width: 30%;
+    height: 15vh;
+    margin-left: 35%;
+    margin-top: 23px;
+}
+#output{
+    border:1px solid black;
+    width: 30%;
+    height: 15vh;
+    margin-left: 35%;
+}
+.button{
+    margin-left: 35%;
+    text-align:left;
+}
+#btn-translate{
+    background-color:rgb(238, 178, 27);
+    max-width: 140px;
+    padding: 0.6rem 1.2rem; 
+    color:black;
+    margin: 0rem ;
+}
+.heading{
+    margin-top: 0px;
+    padding:50px;
+    background-color: rgb(238, 178, 27);
+    text-align: center;
+}
+.footer{ padding:2rem;
+    background-color: rgb(238, 178, 27);;
+    text-align: center;
+}
